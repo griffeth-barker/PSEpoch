@@ -5,7 +5,7 @@ PSEpoch is a basic script module for converting between Unix timestamps and Date
   
 ## Getting Started  
 ### Get the Module
-[![PSGallery Version](https://img.shields.io/powershellgallery/v/PSEpoch.png?style=for-the-badge&label=PowerShell%20Gallery)](https://www.powershellgallery.com/packages/PSEpoch/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSEpoch.png?style=for-the-badge&label=Downloads)](https://www.powershellgallery.com/packages/PSEpoch/)  
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/PSEpoch.png?style=for-the-badge&label=PowerShell%20Gallery)](https://www.powershellgallery.com/packages/PSEpoch/0.1.2/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSEpoch.png?style=for-the-badge&label=Downloads)](https://www.powershellgallery.com/packages/PSEpoch/0.1.2/)  
   
 You can install the module from the PowerShell Gallery.
   
